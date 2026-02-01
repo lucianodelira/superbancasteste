@@ -1,8 +1,77 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
-  <url><loc>https://www.superbancas.org/</loc></url>
-  <url><loc>https://www.superbancas.org/bancas/tiger-club.html</loc></url>
-  <url><loc>https://www.superbancas.org/bancas/banca-brasileira.html</loc></url>
-  <url><loc>https://www.superbancas.org/bancas/aguia-oficial.html</loc></url>
-  <url><loc>https://www.superbancas.org/bancas/feiticeira.html</loc></url>
+<urlset xmlns="https://www.sitemaps.org/schemas/sitemap/0.9">
+  
+  
+  <url>
+    <loc>https://www.superbancas.org/</loc>
+    <priority>1.0</priority>
+  </url>
+
+  <url>
+    <loc>https://www.superbancas.org/como-funciona.html</loc>
+    <priority>0.8</priority>
+  </url>
+
+  <url>
+    <loc>https://www.superbancas.org/sobre.html</loc>
+    <priority>0.8</priority>
+  </url>
+
+  <url>
+    <loc>https://www.superbancas.org/politica-de-privacidade.html</loc>
+    <priority>0.6</priority>
+  </url>
+
+  <url>
+    <loc>https://www.superbancas.org/termos.html</loc>
+    <priority>0.6</priority>
+  </url>
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  <url>
+    <loc>https://www.superbancas.org/</loc>
+    <lastmod>2026-01-21</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>1.0</priority>
+  </url>
+  <url>
+    <loc>https://www.superbancas.org/login</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.9</priority>
+  </url>
+  <url>
+    <loc>https://www.superbancas.org/cadastro</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.9</priority>
+  </url>
+  <url>
+    <loc>https://www.superbancas.org/jogos</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+  </url>
+  <url>
+    <loc>https://www.superbancas.org/bancas</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+  </url>
 </urlset>
